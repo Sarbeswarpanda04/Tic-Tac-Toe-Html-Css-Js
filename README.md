@@ -31,5 +31,58 @@ A modern, animated Tic Tac Toe game built with pure HTML, CSS, and JavaScript. F
 ## 🚀 Installation
 
 1. Clone the repository:
-```bash
+2. bash
 git clone https://github.com/Sarbeswarpanda04/Tic-Tac-Toe-Html-Css-Js.git
+3. Open in browser:
+cd tic-tac-toe
+open index.html
+
+
+## 🕹️ How to Play
+
+1. Click on any cell to place your mark (X or O)
+2. Alternate turns with another player
+3. First to get 3 in a row (horizontal, vertical, or diagonal) wins!
+4. Click "Restart Game" for a new match
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Game structure
+- **CSS3** - Animations and styling
+- **JavaScript** - Game logic
+- **Flexbox & Grid** - Layout system
+- **CSS Animations** - Visual effects
+
+## 🌈 Key Animations
+
+- X/O placement animations
+- Hover scaling effects
+- Winning cells pulse animation
+- Game over overlay fade-in
+- Button hover transitions
+- Current player indicator
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📧 Contact
+
+Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - youremail@example.com
+
+Project Link: [https://github.com/Sarbeswarpanda04/Tic-Tac-Toe-Html-Css-Js/](https://github.com/Sarbeswarpanda04/Tic-Tac-Toe-Html-Css-Js/)
+
+---
+
+# Made with ❤️ By Sarbeswar Panda! 🎮
+
